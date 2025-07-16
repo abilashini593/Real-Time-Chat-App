@@ -1,7 +1,9 @@
 Real-Time Chat Application
+
 A real-time messaging web app that allows users to exchange text and image messages instantly. Built with a focus on clean architecture and efficient communication using Socket.IO, MongoDB, and Cloudinary.
 
  Features
+ 
 🔐 User Authentication (JWT + Cookies)
 
 💬 Real-time messaging via Socket.IO
